@@ -1,3 +1,7 @@
+
+
+https://github.com/issam-nz/DonostiLuxDrive/assets/159236399/cebc11bd-6261-42f5-b2c8-41c8597d0f8a
+
 # DOCUMENTACIÓN
 ##  Descripción general:
 La aplicación de alquiler de coches en fase alfa es una plataforma en línea diseñada para permitir a los usuarios alquilar coches de forma sencilla y rápida. La aplicación se encuentra en una fase alfa, lo que significa que aún está en desarrollo y no cuenta con todas las funciones y características que estarán disponibles en su versión final.
